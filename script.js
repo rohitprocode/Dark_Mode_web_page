@@ -1,5 +1,5 @@
-let Body_color = document.getElementById('container');
-let isDark = true
+let Body_color;
+let isDark = true;
 
 function toggleDarkAndWhite(){
     if(isDark == true){
